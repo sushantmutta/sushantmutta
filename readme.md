@@ -46,6 +46,16 @@ I'm a **BE CSE AI & ML** student at **Siddaganga Institute of Technology**, pass
 
 ---
 
+## 📊 Language Usage Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantmutta&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages"/>
+</p>
+
+> 🧠 This shows your most used programming languages and their **percentage contribution** to your public repositories.
+
+---
+
 ## 📂 Projects
 
 ### 1. [Invoice Generator – Full-Stack Invoicing Application](https://github.com/sushantmutta/invoice_generator_backend)  
@@ -98,6 +108,15 @@ I'm a **BE CSE AI & ML** student at **Siddaganga Institute of Technology**, pass
   Coordinated 5v5 & 7v7 football tournaments, handling logistics, sponsorships, and player management.  
 
 - **Participant** – ETH India 2024 (Web3 Hackathon)  
+
+---
+
+## ⚡ GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushantmutta&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantmutta&theme=radical&hide_border=true" height="160"/>
+</p>
 
 ---
 
