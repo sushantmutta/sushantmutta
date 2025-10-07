@@ -7,13 +7,42 @@ I'm a **BE CSE AI & ML** student at **Siddaganga Institute of Technology**, pass
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Languages & Tech Stack
 
-- **Programming Languages:** Java, Python, C, C++, SQL, JavaScript, HTML, CSS, Bash, PowerShell, Shell  
-- **Frameworks & Libraries:** Spring Boot, React, NLTK, SpaCy  
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, GitLab, Git, CI/CD Pipelines  
-- **Databases:** MongoDB, SQL (RDBMS)  
-- **Operating Systems:** Linux, Windows  
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-lightgrey?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+
+**Frameworks & Libraries:**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLTK-85C1E9?logo=python&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=python&logoColor=white)
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?logo=githubactions&logoColor=white)
+
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+**Operating Systems:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ---
 
