@@ -52,7 +52,7 @@ I'm a **BE CSE AI & ML** student at **Siddaganga Institute of Technology**, pass
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantmutta&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages"/>
 </p>
 
-> 🧠 This shows your most used programming languages and their **percentage contribution** to your public repositories.
+
 
 ---
 
